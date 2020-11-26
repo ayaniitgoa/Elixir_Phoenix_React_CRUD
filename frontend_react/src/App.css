@@ -1,0 +1,19 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.card {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
